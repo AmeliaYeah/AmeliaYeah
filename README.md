@@ -6,10 +6,9 @@ https://github.com/AOrps
 Also the stat cards and stuff are github readme stats
 -->
 
-# Hi :3
-I'm Amelia. I sometimes like to develop things. I am **NOT** a skinwalker.
-<br>
-Go to my website if you're cool: https://ameliayeah.github.io
+<p align="center">
+  <img src="./intro.gif">
+</p>
 
 <br>
 
