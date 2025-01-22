@@ -1,6 +1,6 @@
-# Hello, I do not exist.
-Hi, I'm Amelia. I sometimes like to develop things.
-&nbsp;
+# Hi :3
+I'm Amelia. I sometimes like to develop things.
+I'm not a skinwalker.
 
 # Information about me (for parasocial people)
 ### General Information
