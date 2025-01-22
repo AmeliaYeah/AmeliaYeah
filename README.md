@@ -15,7 +15,8 @@ haha get it because it's like the funny linux command haha *cough*
 <p align="center">
   <img src="https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&custom_title=My%20Stats&theme=radical&include_all_commits=true&hide_rank=true&show=prs_merged,discussions_started,discussions_answered&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io">
 </p>
-<br>
+
+and I like to program in...
 <p align="center">
   <img src="https://readme-stats-phi-lac.vercel.app/api/top-langs/?username=AmeliaYeah&theme=radical&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io&langs_count=10&layout=pie">
 </p>
