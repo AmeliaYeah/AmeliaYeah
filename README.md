@@ -15,7 +15,7 @@ Also the stat cards and stuff are github readme stats
 ## `$ whoami`
 haha get it because it's like the funny linux command haha *cough*
 <p align="center">
-  <img src="https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&theme=radical&include_all_commits=true&show=prs_merged,discussions_started,discussions_answered&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io">
+  <img src="https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&custom_title=My%20Stats&theme=radical&include_all_commits=true&show=prs_merged,discussions_started,discussions_answered&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io">
 </p>
 <br>
 <p align="center">
