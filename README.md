@@ -1,5 +1,6 @@
 # Hello, I do not exist.
-#### I sometimes like to develop things
+Hi, I'm Amelia. I sometimes like to develop things.
+&nbsp;
 
 # Information about me (for parasocial people)
 ### General Information
