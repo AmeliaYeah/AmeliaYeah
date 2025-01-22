@@ -13,6 +13,6 @@ https://github.com/faressoft/terminalizer
 ## `$ whoami`
 haha get it because it's like the funny linux command haha *cough*
 <p align="center">
-  <img src="https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&custom_title=My%20Stats&theme=radical&include_all_commits=true&hide_rank=true&show=prs_merged&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io">
-  <img src="https://readme-stats-phi-lac.vercel.app/api/top-langs/?username=AmeliaYeah&theme=radical&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io&langs_count=6&layout=donut">
+  <img src="https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&custom_title=My%20Stats&theme=radical&include_all_commits=true&hide_rank=true&show=prs_merged&exclude_repo=readme-stats,AmeliaYeah">
+  <img src="https://readme-stats-phi-lac.vercel.app/api/top-langs/?username=AmeliaYeah&theme=radical&exclude_repo=readme-stats,AmeliaYeah&langs_count=6&layout=donut">
 </p>
