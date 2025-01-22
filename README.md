@@ -1,9 +1,7 @@
 <!--
 People I got inspired from linked some useful stuff, so I'm gonna not be an asshole and do the same.
-https://raw.githubusercontent.com/JLLeitschuh
-https://github.com/AOrps
-
-Also the stat cards and stuff are github readme stats
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/faressoft/terminalizer
 -->
 
 <p align="center">
