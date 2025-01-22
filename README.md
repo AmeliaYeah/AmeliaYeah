@@ -2,7 +2,7 @@
 Please go away
 
 # Information about me (for parasocial people)
-### Generatl Information
+### General Information
 ![stats](https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### What languages did I use most?
