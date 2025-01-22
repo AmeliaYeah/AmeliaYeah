@@ -1,7 +1,5 @@
 # Hi :3
-I'm Amelia. I sometimes like to develop things.
-&nbsp;
-I'm not a skinwalker.
+I'm Amelia. I sometimes like to develop things. I am **NOT** a skinwalker.
 
 # Information about me (for parasocial people)
 ### General Information
