@@ -2,6 +2,7 @@
 People I got inspired from linked some useful stuff, so I'm gonna not be an asshole and do the same.
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/faressoft/terminalizer
+https://github.com/ryo-ma/github-profile-trophy
 -->
 
 <p align="center">
