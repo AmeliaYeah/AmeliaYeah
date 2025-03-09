@@ -5,6 +5,7 @@ https://github.com/faressoft/terminalizer
 https://github.com/ryo-ma/github-profile-trophy
 -->
 
+
 <p align="center">
   <img src="./intro.gif">
 </p>
@@ -20,4 +21,9 @@ haha get it because it's like the funny linux command haha *cough*
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AmeliaYeah&theme=radical">
+</p>
+
+<p align="center">
+<img src="https://www.hackthebox.com/badge/image/666835">
+<img src="https://tryhackme-badges.s3.amazonaws.com/AmeliaYeah.png" alt="Your Image Badge" />
 </p>
