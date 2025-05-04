@@ -15,8 +15,8 @@ https://github.com/ryo-ma/github-profile-trophy
 ## `$ whoami`
 haha get it because it's like the funny linux command haha *cough*
 <p align="center">
-  <img height="300" src="https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&custom_title=My%20Stats&theme=radical&include_all_commits=true&hide_rank=true&show=prs_merged&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io">
-  <img height="300" src="https://readme-stats-phi-lac.vercel.app/api/top-langs/?username=AmeliaYeah&theme=radical&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io&langs_count=6&layout=donut-vertical">
+  <img height="250" src="https://readme-stats-phi-lac.vercel.app/api?username=AmeliaYeah&show_icons=true&custom_title=My%20Stats&theme=radical&include_all_commits=true&hide_rank=true&show=prs_merged&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io">
+  <img height="250" src="https://readme-stats-phi-lac.vercel.app/api/top-langs/?username=AmeliaYeah&theme=radical&exclude_repo=readme-stats,AmeliaYeah,AmeliaYeah.github.io&langs_count=6&layout=donut">
 </p>
 
 <p align="center">
